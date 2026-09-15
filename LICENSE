@@ -1,0 +1,13 @@
+#License
+CDGA Tool workflows are distributed under the GNU General Public License v3.0 (GPL-3.0). Third-party software, libraries, KNIME extensions and data remain subject to their respective license terms and are not covered by the CDGA license unless explicitly stated otherwise.
+
+The input test dataset contains structures derived from the CSD entry with refcode AGAZIR. Rotational, translational, and chemical modifications were introduced using BIOVIA Materials Studio 2024 (https://www.3ds.com/products/biovia/materials-studio), and the reference complex was optimized using Gaussian 16 (https://gaussian.com/). The derived structural data are shared with permission from the Cambridge Crystallographic Data Centre (CCDC). These structures constitute third-party data and are not covered by the CDGA Tool license. Their use and redistribution remain subject to the applicable CCDC and software license terms.
+
+CDGA_User_Manual_V1 is licensed under the Creative Commons Attribution NonCommercial 4.0 International License, CC BY NC 4.0. You may share and adapt this manual for noncommercial purposes, provided that appropriate credit is given to the authors and any changes are indicated.
+
+The recordings are intended as supplementary documentation to the CDGA User Manual and provide practical examples of workflow configuration and execution.
+The original visual content created by the CDGA authors is licensed under the Creative Commons Attribution 4.0 International License, CC BY 4.0. Third-party software interfaces, trademarks, molecular structures, datasets, and other third-party materials visible in the recordings remain subject to their respective licenses and terms.
+
+glide_docking_mol_file_generator.py is distributed under the GNU General Public License v3.0 (GPL-3.0). The script is intended for users of Maestro and Schrödinger software who have legitimate access to the required Schrödinger components. 
+The GPL 3.0 license applies only to the source code provided in this repository. It does not apply to Maestro, Schrödinger software, libraries, tools, data, or any other third-party components required to run the script.
+Use of the script may therefore require a valid Schrödinger license or other authorized access to the relevant Schrödinger software.

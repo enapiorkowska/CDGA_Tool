@@ -1,0 +1,10 @@
+name: knime-rdkit
+channels:
+  - conda-forge
+  - knime
+dependencies:
+  - python=3.10
+  - knime-python-scripting
+  - rdkit
+  - numpy
+  - pandas
