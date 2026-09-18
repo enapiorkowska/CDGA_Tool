@@ -1,8 +1,8 @@
 # **CDGA: Cyclodextrin Guest Analysis Tool**
 KNIME workflows for the analysis of cyclodextrin inclusion complexes and guest properties inside the cavity and host characterization.
 
-The GitHub repository contains the CDGA Tool, validation input structures, expected output files, processed molecular structures, Python environment configuration, supporting scripts, and documentation required to install, execute, and verify the CDGA. It is associated with the following paper accepted for publication:
-Napiórkowska E, Szeleszczuk Ł. CDGA: A Host-Based Alignment and Descriptor Analysis Tool for Cyclodextrin Inclusion Complexes. Journal of Chemical Information and Modeling, DOI: 10.1021/acs.jcim.6c02866.
+The GitHub repository contains the CDGA Tool, validation input structures, expected output files, processed molecular structures, Python environment configuration, supporting scripts, and documentation required to install, execute, and verify the CDGA. It is associated with the following publication:
+Napiórkowska E, Szeleszczuk Ł. CDGA: A Host-Based Alignment and Descriptor Analysis Tool for Cyclodextrin Inclusion Complexes. Journal of Chemical Information and Modeling, 2026, DOI: 10.1021/acs.jcim.6c02866.
 
 The **Cyclodextrin Guest Analysis Align Tool (CDGA Align) - Workflow WITH alignment of cyclodextrin complexes**: aligns all complexes based solely on the host cyclodextrin structure.
 
@@ -271,8 +271,8 @@ If the script and input file are not located in the same directory, specify the 
 
 ***
 
-Note: A more detailed manual can be found in the Manual user file (/CDGA_User_Manual_V1.pdf). The testing and validation have been provided in the paper accepted for publication:
-Napiórkowska E, Szeleszczuk Ł. CDGA: A Host-Based Alignment and Descriptor Analysis Tool for Cyclodextrin Inclusion Complexes. Journal of Chemical Information and Modeling, DOI: 10.1021/acs.jcim.6c02866.
+Note: A more detailed manual can be found in the Manual user file (/CDGA_User_Manual_V1.pdf). The testing and validation have been provided in the publication in JCIM. If you used the CDGA Tool in your work, please cite the original paper:
+Ewa Napiórkowska, Łukasz Szeleszczuk; CDGA: A Host-Based Alignment and Descriptor Analysis Tool for Cyclodextrin Inclusion Complexes. J. Chem. Inf. Model. 2026; https://doi.org/10.1021/acs.jcim.6c02866.
 
 The Python code was generated with the assistance of AI (Open AI, Chat GPT 5.5), the host characterization append module and PDB Splitter were designed with the assistance of AI (Open AI, Chat GPT 5.6 Sol) and reviewed and validated by the authors.
 
